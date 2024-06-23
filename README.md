@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Project Name
 BoomBikes Sharing-Linear-Regression
 
@@ -22,12 +22,6 @@ Based on various meteorological surveys and people's styles, the service provide
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 Based on the data available, the most favourable seasons for biking are summer and winter.
 Most favourable weather condition is the Clear, Few clouds, Partly cloudy
@@ -39,4 +33,4 @@ Month - favourable months are November, December.
 =======
 # boombike_linearreg
 Upgrad linear regression assignment
->>>>>>> origin/main
+
