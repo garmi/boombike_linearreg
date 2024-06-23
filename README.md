@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Name
 BoomBikes Sharing-Linear-Regression
 
@@ -35,3 +36,7 @@ Weekday - bike usage is preferred on Saturdays
 Weathersit - weather condition is the clean/few clouds days is good for biking. even on the light rainy days, ebikes are being used for daily commute.
 Month - favourable months are November, December.
 
+=======
+# boombike_linearreg
+Upgrad linear regression assignment
+>>>>>>> origin/main
